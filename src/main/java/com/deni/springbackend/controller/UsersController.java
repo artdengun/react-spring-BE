@@ -36,7 +36,7 @@ public class UsersController {
 
     // ambil data atau edit
     @PutMapping("/users/edit/{id}")
-    public void updateUsers(@PathVariable("id") Long id, @RequestBody Users users){
+    public void updateUsers(@RequestBody Users users){
         usersServices.updateTeman(users);
     }
 
