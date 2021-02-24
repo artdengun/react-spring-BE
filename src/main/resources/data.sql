@@ -1,0 +1,21 @@
+insert into users values(1, 'Jakarta', '02158215555','Deni Gunawan', 24 );
+insert into users values(2, 'Bekasi', '02158215555','Deni Gunawan', 21 );
+insert into users values(3, 'Bekasi', '02158215555','Deni Gunawan', 22 );
+insert into users values(4, 'Bekasi', '02158215555','Deni Gunawan', 23 );
+insert into users values(5, 'Ciamis', '02158215555','Deni Gunawan', 22 );
+insert into users values(6, 'Ciamis', '02158215555','Deni Gunawan', 22 );
+insert into users values(7, 'Ciamis', '02158215555','Deni Gunawan', 22 );
+insert into users values(8, 'Cianjur', '02158215555','Deni Gunawan', 21 );
+insert into users values(9, 'Cianjur', '02158215555','Deni Gunawan', 25 );
+insert into users values(10, 'Cianjur', '02158215555','Deni Gunawan', 25 );
+insert into users values(11, 'Cianjur', '02158215555','Deni Gunawan', 26 );
+insert into users values(12, 'Citeureup', '02158215555','Deni Gunawan', 27 );
+insert into users values(13, 'Citeureup', '02158215555','Deni Gunawan', 22 );
+insert into users values(14, 'Citeureup', '02158215555','Deni Gunawan', 21 );
+insert into users values(15, 'Bandung', '02158215555','Deni Gunawan', 23 );
+insert into users values(16, 'Bandung', '02158215555','Deni Gunawan', 22 );
+insert into users values(17, 'Bandung', '02158215555','Deni Gunawan', 21 );
+insert into users values(18, 'Bandung', '02158215555','Deni Gunawan', 21 );
+insert into users values(19, 'Bandung', '02158215555','Deni Gunawan', 22 );
+insert into users values(20, 'Bandung', '02158215555','Deni Gunawan', 25 );
+
