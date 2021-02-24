@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 import java.util.Optional;
 
+@CrossOrigin(origins = "http://localhost:3000", maxAge = 3600)
 @RestController
-@CrossOrigin
 public class UsersController {
 
     @Autowired
@@ -41,7 +41,7 @@ public class UsersController {
     }
 
     // hapus data
-    @DeleteMapping("/users/delete/{id}")
+    @DeleteMapping("/users/{id}")
     public void deleteUsers(@PathVariable("id") Long id){
         usersServices.hapusTeman(id);
     }
